@@ -26,11 +26,11 @@
 *.a
 *.lib
 
-input/
-output/
-*.txt
-
 # Executables
 *.exe
 *.out
 *.app
+
+input/
+output/
+*.txt
